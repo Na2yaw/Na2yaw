@@ -1,16 +1,8 @@
 ### Hi there 👋 I'm Nana Yaw
 
-<!--
-**Na2yaw/Na2yaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a IT major at university of Ghana.
-- 🌱
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asare-justice).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I think I am funny
+
