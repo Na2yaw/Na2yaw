@@ -20,10 +20,10 @@
 
 
 ## **I've got everything to do with writing codes😍**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=baabashinelle&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baabashinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baabashinelle&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baabashinelle&theme=github_dark)
-[![Baaba Shinelle's stats](https://github-readme-stats.vercel.app/api?username=baabashinelle&show_icons=true&theme=github_dark)](https://github.com/baabashinelle)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Na2yaw&theme=dracula&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=Na2yaw&theme=dark&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Na2yaw&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Na2yaw&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Na2yaw&theme=github_dark)
+[![Asare Justice's stats](https://github-readme-stats.vercel.app/api?username=Na2yaw&show_icons=true&theme=github_dark)](https://github.com/Na2yaw)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Na2yaw&theme=dark&border_radius=5.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
